@@ -1,0 +1,7 @@
+,value
+corr_similarity_pooled_within,0.9453577685770004
+jaccard_pooled_within,1.0
+corr_similarity_between_pooled,0.9516001325453988
+jaccard_between_pooled,0.7
+corr_similarity_between_within,0.816818238800909
+jaccard_between_within,0.7

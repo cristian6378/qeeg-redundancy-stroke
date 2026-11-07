@@ -1,0 +1,24 @@
+{
+  "condition": "realistic",
+  "repeats": 5,
+  "folds": 5,
+  "n_trials": 2000,
+  "classes": [
+    "hemorrhagic",
+    "ischemic",
+    "normal",
+    "tia"
+  ],
+  "methods": [
+    "all",
+    "panel",
+    "corr_vif",
+    "cluster",
+    "mrmr",
+    "enet",
+    "glasso",
+    "stability",
+    "rfe",
+    "pca"
+  ]
+}

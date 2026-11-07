@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "qeeg-redundancy-stroke"
+type: software
+version: 1.0.0
+date-released: "2026-11-07"
+license: MIT
+authors:
+  - family-names: Valchev
+    given-names: Stoyan
+  - family-names: Dela Cruz
+    given-names: Hugh
+  - family-names: Rodriguez Rivero
+    given-names: Cristian
+    orcid: "https://orcid.org/0000-0002-4315-7476"
+  - family-names: Rajaram
+    given-names: Priyatharshini
+    orcid: "https://orcid.org/0000-0001-6749-0217"
+  - family-names: Pucheta
+    given-names: Julian
+    orcid: "https://orcid.org/0000-0003-1390-7405"
+  - family-names: Rajan
+    given-names: Ginu
+    orcid: "https://orcid.org/0000-0001-6152-6848"
+repository-code: "https://github.com/OWNER/qeeg-redundancy-stroke"
+keywords: [quantitative EEG, stroke, feature selection, selection stability, feature redundancy, within-session repeatability, spatial subsampling, low-density EEG]
+preferred-citation:
+  type: article
+  title: "Beyond the Full Cap? Feature Redundancy, Within-Session Repeatability and Montage Dependence of Quantitative EEG in Stroke: A Simulation Study and Exploratory Patient Analysis"
+  journal: "Big Data and Cognitive Computing"
+  year: 2026
+  authors:
+    - family-names: Valchev
+      given-names: Stoyan
+    - family-names: Dela Cruz
+      given-names: Hugh
+    - family-names: Rodriguez Rivero
+      given-names: Cristian
+    - family-names: Rajaram
+      given-names: Priyatharshini
+    - family-names: Pucheta
+      given-names: Julian
+    - family-names: Rajan
+      given-names: Ginu

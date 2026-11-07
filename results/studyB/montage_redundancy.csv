@@ -1,0 +1,7 @@
+montage,n_channels,n_features_available,pairs_r06,similarity_to_M29,n_retained,retained,jaccard_vs_M29
+M29,29,17,16,1.0,10,beta;delta_alpha;kurtosis;skewness;higuchi_fd;magnitude_squared_coherence;pdbsi_delta;pdbsi_theta;pdbsi_alpha;pdbsi_beta,1.0
+M19,19,17,17,0.9991155117962672,9,beta;delta_alpha;kurtosis;skewness;higuchi_fd;magnitude_squared_coherence;pdbsi_theta;pdbsi_alpha;pdbsi_beta,0.9
+M8,8,17,14,0.9782739268986345,10,beta;delta_alpha;kurtosis;skewness;higuchi_fd;magnitude_squared_coherence;pdbsi_delta;pdbsi_theta;pdbsi_alpha;pdbsi_beta,1.0
+M4F,4,17,16,0.8639028898815764,9,beta;delta_alpha;skewness;sample_entropy;higuchi_fd;weighted_phase_lag_index;magnitude_squared_coherence;pdbsi_delta;pdbsi_beta,0.5833333333333334
+M4C,4,17,15,0.9858417942301604,10,beta;delta_alpha;kurtosis;skewness;higuchi_fd;magnitude_squared_coherence;pdbsi_delta;pdbsi_theta;pdbsi_alpha;pdbsi_beta,1.0
+M2,2,17,13,0.9542573581709105,11,beta;delta_alpha;kurtosis;skewness;higuchi_fd;weighted_phase_lag_index;magnitude_squared_coherence;pdbsi_delta;pdbsi_theta;pdbsi_alpha;pdbsi_beta,0.9090909090909091

@@ -1,0 +1,801 @@
+method,classifier,subject,accuracy
+all,LightGBM,1,1.0
+all,LightGBM,2,1.0
+all,LightGBM,3,1.0
+all,LightGBM,4,1.0
+all,LightGBM,5,1.0
+all,LightGBM,6,1.0
+all,LightGBM,7,1.0
+all,LightGBM,8,1.0
+all,LightGBM,9,1.0
+all,LightGBM,10,1.0
+all,LightGBM,11,1.0
+all,LightGBM,12,1.0
+all,LightGBM,13,1.0
+all,LightGBM,14,1.0
+all,LightGBM,15,1.0
+all,LightGBM,16,1.0
+all,LightGBM,17,1.0
+all,LightGBM,18,1.0
+all,LightGBM,19,1.0
+all,LightGBM,20,1.0
+all,LightGBM,21,1.0
+all,LightGBM,22,1.0
+all,LightGBM,23,1.0
+all,LightGBM,24,1.0
+all,LightGBM,25,1.0
+all,LightGBM,26,1.0
+all,LightGBM,27,1.0
+all,LightGBM,28,1.0
+all,LightGBM,29,1.0
+all,LightGBM,30,1.0
+all,LightGBM,31,1.0
+all,LightGBM,32,0.9879999999999999
+all,LightGBM,33,1.0
+all,LightGBM,34,1.0
+all,LightGBM,35,1.0
+all,LightGBM,36,1.0
+all,LightGBM,37,1.0
+all,LightGBM,38,0.9960000000000001
+all,LightGBM,39,1.0
+all,LightGBM,40,1.0
+all,Logistic Regression,1,0.9640000000000001
+all,Logistic Regression,2,0.9800000000000001
+all,Logistic Regression,3,0.9800000000000001
+all,Logistic Regression,4,1.0
+all,Logistic Regression,5,0.9960000000000001
+all,Logistic Regression,6,0.96
+all,Logistic Regression,7,1.0
+all,Logistic Regression,8,1.0
+all,Logistic Regression,9,1.0
+all,Logistic Regression,10,1.0
+all,Logistic Regression,11,0.9800000000000001
+all,Logistic Regression,12,0.96
+all,Logistic Regression,13,1.0
+all,Logistic Regression,14,1.0
+all,Logistic Regression,15,0.992
+all,Logistic Regression,16,1.0
+all,Logistic Regression,17,1.0
+all,Logistic Regression,18,0.9800000000000001
+all,Logistic Regression,19,0.9800000000000001
+all,Logistic Regression,20,1.0
+all,Logistic Regression,21,0.96
+all,Logistic Regression,22,0.9559999999999998
+all,Logistic Regression,23,1.0
+all,Logistic Regression,24,0.96
+all,Logistic Regression,25,1.0
+all,Logistic Regression,26,0.9960000000000001
+all,Logistic Regression,27,0.9800000000000001
+all,Logistic Regression,28,0.9640000000000001
+all,Logistic Regression,29,0.9800000000000001
+all,Logistic Regression,30,1.0
+all,Logistic Regression,31,1.0
+all,Logistic Regression,32,0.9800000000000001
+all,Logistic Regression,33,0.984
+all,Logistic Regression,34,1.0
+all,Logistic Regression,35,0.9960000000000001
+all,Logistic Regression,36,0.9800000000000001
+all,Logistic Regression,37,1.0
+all,Logistic Regression,38,0.9800000000000001
+all,Logistic Regression,39,0.9800000000000001
+all,Logistic Regression,40,1.0
+cluster,LightGBM,1,1.0
+cluster,LightGBM,2,1.0
+cluster,LightGBM,3,1.0
+cluster,LightGBM,4,1.0
+cluster,LightGBM,5,1.0
+cluster,LightGBM,6,1.0
+cluster,LightGBM,7,1.0
+cluster,LightGBM,8,1.0
+cluster,LightGBM,9,1.0
+cluster,LightGBM,10,1.0
+cluster,LightGBM,11,1.0
+cluster,LightGBM,12,0.984
+cluster,LightGBM,13,1.0
+cluster,LightGBM,14,1.0
+cluster,LightGBM,15,1.0
+cluster,LightGBM,16,1.0
+cluster,LightGBM,17,1.0
+cluster,LightGBM,18,1.0
+cluster,LightGBM,19,1.0
+cluster,LightGBM,20,1.0
+cluster,LightGBM,21,1.0
+cluster,LightGBM,22,1.0
+cluster,LightGBM,23,1.0
+cluster,LightGBM,24,1.0
+cluster,LightGBM,25,1.0
+cluster,LightGBM,26,1.0
+cluster,LightGBM,27,1.0
+cluster,LightGBM,28,1.0
+cluster,LightGBM,29,1.0
+cluster,LightGBM,30,1.0
+cluster,LightGBM,31,1.0
+cluster,LightGBM,32,0.9719999999999999
+cluster,LightGBM,33,1.0
+cluster,LightGBM,34,1.0
+cluster,LightGBM,35,1.0
+cluster,LightGBM,36,1.0
+cluster,LightGBM,37,1.0
+cluster,LightGBM,38,0.9800000000000001
+cluster,LightGBM,39,0.9960000000000001
+cluster,LightGBM,40,1.0
+cluster,Logistic Regression,1,0.9480000000000001
+cluster,Logistic Regression,2,0.9640000000000001
+cluster,Logistic Regression,3,0.968
+cluster,Logistic Regression,4,1.0
+cluster,Logistic Regression,5,0.9879999999999999
+cluster,Logistic Regression,6,0.9800000000000001
+cluster,Logistic Regression,7,1.0
+cluster,Logistic Regression,8,1.0
+cluster,Logistic Regression,9,1.0
+cluster,Logistic Regression,10,0.9719999999999999
+cluster,Logistic Regression,11,0.9800000000000001
+cluster,Logistic Regression,12,0.9719999999999999
+cluster,Logistic Regression,13,1.0
+cluster,Logistic Regression,14,1.0
+cluster,Logistic Regression,15,1.0
+cluster,Logistic Regression,16,1.0
+cluster,Logistic Regression,17,1.0
+cluster,Logistic Regression,18,0.9399999999999998
+cluster,Logistic Regression,19,0.9800000000000001
+cluster,Logistic Regression,20,1.0
+cluster,Logistic Regression,21,0.984
+cluster,Logistic Regression,22,0.932
+cluster,Logistic Regression,23,1.0
+cluster,Logistic Regression,24,0.96
+cluster,Logistic Regression,25,1.0
+cluster,Logistic Regression,26,0.976
+cluster,Logistic Regression,27,1.0
+cluster,Logistic Regression,28,0.9800000000000001
+cluster,Logistic Regression,29,0.992
+cluster,Logistic Regression,30,1.0
+cluster,Logistic Regression,31,1.0
+cluster,Logistic Regression,32,0.96
+cluster,Logistic Regression,33,0.952
+cluster,Logistic Regression,34,0.9800000000000001
+cluster,Logistic Regression,35,0.9800000000000001
+cluster,Logistic Regression,36,1.0
+cluster,Logistic Regression,37,1.0
+cluster,Logistic Regression,38,0.9800000000000001
+cluster,Logistic Regression,39,0.9800000000000001
+cluster,Logistic Regression,40,1.0
+corr_vif,LightGBM,1,1.0
+corr_vif,LightGBM,2,1.0
+corr_vif,LightGBM,3,1.0
+corr_vif,LightGBM,4,1.0
+corr_vif,LightGBM,5,1.0
+corr_vif,LightGBM,6,1.0
+corr_vif,LightGBM,7,1.0
+corr_vif,LightGBM,8,1.0
+corr_vif,LightGBM,9,1.0
+corr_vif,LightGBM,10,1.0
+corr_vif,LightGBM,11,1.0
+corr_vif,LightGBM,12,0.976
+corr_vif,LightGBM,13,1.0
+corr_vif,LightGBM,14,1.0
+corr_vif,LightGBM,15,1.0
+corr_vif,LightGBM,16,1.0
+corr_vif,LightGBM,17,1.0
+corr_vif,LightGBM,18,0.9960000000000001
+corr_vif,LightGBM,19,1.0
+corr_vif,LightGBM,20,1.0
+corr_vif,LightGBM,21,1.0
+corr_vif,LightGBM,22,1.0
+corr_vif,LightGBM,23,1.0
+corr_vif,LightGBM,24,1.0
+corr_vif,LightGBM,25,1.0
+corr_vif,LightGBM,26,1.0
+corr_vif,LightGBM,27,1.0
+corr_vif,LightGBM,28,0.9879999999999999
+corr_vif,LightGBM,29,1.0
+corr_vif,LightGBM,30,1.0
+corr_vif,LightGBM,31,1.0
+corr_vif,LightGBM,32,0.9640000000000001
+corr_vif,LightGBM,33,1.0
+corr_vif,LightGBM,34,1.0
+corr_vif,LightGBM,35,1.0
+corr_vif,LightGBM,36,1.0
+corr_vif,LightGBM,37,1.0
+corr_vif,LightGBM,38,0.9800000000000001
+corr_vif,LightGBM,39,0.992
+corr_vif,LightGBM,40,1.0
+corr_vif,Logistic Regression,1,0.9399999999999998
+corr_vif,Logistic Regression,2,0.96
+corr_vif,Logistic Regression,3,0.96
+corr_vif,Logistic Regression,4,1.0
+corr_vif,Logistic Regression,5,0.9800000000000001
+corr_vif,Logistic Regression,6,0.9800000000000001
+corr_vif,Logistic Regression,7,1.0
+corr_vif,Logistic Regression,8,0.984
+corr_vif,Logistic Regression,9,1.0
+corr_vif,Logistic Regression,10,0.9719999999999999
+corr_vif,Logistic Regression,11,0.984
+corr_vif,Logistic Regression,12,0.9640000000000001
+corr_vif,Logistic Regression,13,1.0
+corr_vif,Logistic Regression,14,1.0
+corr_vif,Logistic Regression,15,0.992
+corr_vif,Logistic Regression,16,0.9879999999999999
+corr_vif,Logistic Regression,17,1.0
+corr_vif,Logistic Regression,18,0.9800000000000001
+corr_vif,Logistic Regression,19,0.976
+corr_vif,Logistic Regression,20,1.0
+corr_vif,Logistic Regression,21,0.9800000000000001
+corr_vif,Logistic Regression,22,0.9200000000000002
+corr_vif,Logistic Regression,23,1.0
+corr_vif,Logistic Regression,24,0.944
+corr_vif,Logistic Regression,25,1.0
+corr_vif,Logistic Regression,26,0.96
+corr_vif,Logistic Regression,27,1.0
+corr_vif,Logistic Regression,28,0.9800000000000001
+corr_vif,Logistic Regression,29,0.984
+corr_vif,Logistic Regression,30,1.0
+corr_vif,Logistic Regression,31,1.0
+corr_vif,Logistic Regression,32,0.9559999999999998
+corr_vif,Logistic Regression,33,1.0
+corr_vif,Logistic Regression,34,0.984
+corr_vif,Logistic Regression,35,0.976
+corr_vif,Logistic Regression,36,1.0
+corr_vif,Logistic Regression,37,1.0
+corr_vif,Logistic Regression,38,0.9800000000000001
+corr_vif,Logistic Regression,39,0.9800000000000001
+corr_vif,Logistic Regression,40,1.0
+enet,LightGBM,1,1.0
+enet,LightGBM,2,1.0
+enet,LightGBM,3,1.0
+enet,LightGBM,4,1.0
+enet,LightGBM,5,1.0
+enet,LightGBM,6,1.0
+enet,LightGBM,7,1.0
+enet,LightGBM,8,1.0
+enet,LightGBM,9,1.0
+enet,LightGBM,10,1.0
+enet,LightGBM,11,1.0
+enet,LightGBM,12,1.0
+enet,LightGBM,13,1.0
+enet,LightGBM,14,1.0
+enet,LightGBM,15,1.0
+enet,LightGBM,16,1.0
+enet,LightGBM,17,1.0
+enet,LightGBM,18,1.0
+enet,LightGBM,19,1.0
+enet,LightGBM,20,1.0
+enet,LightGBM,21,1.0
+enet,LightGBM,22,1.0
+enet,LightGBM,23,1.0
+enet,LightGBM,24,1.0
+enet,LightGBM,25,1.0
+enet,LightGBM,26,1.0
+enet,LightGBM,27,1.0
+enet,LightGBM,28,1.0
+enet,LightGBM,29,1.0
+enet,LightGBM,30,1.0
+enet,LightGBM,31,1.0
+enet,LightGBM,32,0.9879999999999999
+enet,LightGBM,33,1.0
+enet,LightGBM,34,1.0
+enet,LightGBM,35,1.0
+enet,LightGBM,36,1.0
+enet,LightGBM,37,1.0
+enet,LightGBM,38,0.9960000000000001
+enet,LightGBM,39,1.0
+enet,LightGBM,40,1.0
+enet,Logistic Regression,1,0.968
+enet,Logistic Regression,2,0.984
+enet,Logistic Regression,3,0.9800000000000001
+enet,Logistic Regression,4,1.0
+enet,Logistic Regression,5,0.9960000000000001
+enet,Logistic Regression,6,0.96
+enet,Logistic Regression,7,0.992
+enet,Logistic Regression,8,1.0
+enet,Logistic Regression,9,1.0
+enet,Logistic Regression,10,1.0
+enet,Logistic Regression,11,0.9800000000000001
+enet,Logistic Regression,12,0.9640000000000001
+enet,Logistic Regression,13,1.0
+enet,Logistic Regression,14,1.0
+enet,Logistic Regression,15,0.9800000000000001
+enet,Logistic Regression,16,1.0
+enet,Logistic Regression,17,1.0
+enet,Logistic Regression,18,0.9719999999999999
+enet,Logistic Regression,19,0.9800000000000001
+enet,Logistic Regression,20,1.0
+enet,Logistic Regression,21,0.96
+enet,Logistic Regression,22,0.9559999999999998
+enet,Logistic Regression,23,1.0
+enet,Logistic Regression,24,0.96
+enet,Logistic Regression,25,1.0
+enet,Logistic Regression,26,1.0
+enet,Logistic Regression,27,0.9800000000000001
+enet,Logistic Regression,28,0.9640000000000001
+enet,Logistic Regression,29,0.9800000000000001
+enet,Logistic Regression,30,1.0
+enet,Logistic Regression,31,1.0
+enet,Logistic Regression,32,0.9800000000000001
+enet,Logistic Regression,33,0.984
+enet,Logistic Regression,34,1.0
+enet,Logistic Regression,35,0.9960000000000001
+enet,Logistic Regression,36,0.9800000000000001
+enet,Logistic Regression,37,1.0
+enet,Logistic Regression,38,0.9800000000000001
+enet,Logistic Regression,39,0.9800000000000001
+enet,Logistic Regression,40,1.0
+glasso,LightGBM,1,1.0
+glasso,LightGBM,2,1.0
+glasso,LightGBM,3,1.0
+glasso,LightGBM,4,1.0
+glasso,LightGBM,5,1.0
+glasso,LightGBM,6,1.0
+glasso,LightGBM,7,1.0
+glasso,LightGBM,8,1.0
+glasso,LightGBM,9,1.0
+glasso,LightGBM,10,1.0
+glasso,LightGBM,11,0.9960000000000001
+glasso,LightGBM,12,1.0
+glasso,LightGBM,13,1.0
+glasso,LightGBM,14,1.0
+glasso,LightGBM,15,1.0
+glasso,LightGBM,16,1.0
+glasso,LightGBM,17,1.0
+glasso,LightGBM,18,1.0
+glasso,LightGBM,19,1.0
+glasso,LightGBM,20,1.0
+glasso,LightGBM,21,1.0
+glasso,LightGBM,22,1.0
+glasso,LightGBM,23,1.0
+glasso,LightGBM,24,1.0
+glasso,LightGBM,25,1.0
+glasso,LightGBM,26,1.0
+glasso,LightGBM,27,1.0
+glasso,LightGBM,28,1.0
+glasso,LightGBM,29,1.0
+glasso,LightGBM,30,1.0
+glasso,LightGBM,31,1.0
+glasso,LightGBM,32,0.976
+glasso,LightGBM,33,1.0
+glasso,LightGBM,34,1.0
+glasso,LightGBM,35,1.0
+glasso,LightGBM,36,1.0
+glasso,LightGBM,37,1.0
+glasso,LightGBM,38,0.9960000000000001
+glasso,LightGBM,39,1.0
+glasso,LightGBM,40,1.0
+glasso,Logistic Regression,1,0.96
+glasso,Logistic Regression,2,0.9800000000000001
+glasso,Logistic Regression,3,0.9800000000000001
+glasso,Logistic Regression,4,1.0
+glasso,Logistic Regression,5,1.0
+glasso,Logistic Regression,6,0.968
+glasso,Logistic Regression,7,1.0
+glasso,Logistic Regression,8,0.976
+glasso,Logistic Regression,9,1.0
+glasso,Logistic Regression,10,0.9879999999999999
+glasso,Logistic Regression,11,0.9800000000000001
+glasso,Logistic Regression,12,0.9480000000000001
+glasso,Logistic Regression,13,1.0
+glasso,Logistic Regression,14,1.0
+glasso,Logistic Regression,15,0.9800000000000001
+glasso,Logistic Regression,16,1.0
+glasso,Logistic Regression,17,1.0
+glasso,Logistic Regression,18,0.9640000000000001
+glasso,Logistic Regression,19,0.9800000000000001
+glasso,Logistic Regression,20,1.0
+glasso,Logistic Regression,21,0.96
+glasso,Logistic Regression,22,0.9719999999999999
+glasso,Logistic Regression,23,1.0
+glasso,Logistic Regression,24,0.9399999999999998
+glasso,Logistic Regression,25,1.0
+glasso,Logistic Regression,26,0.9800000000000001
+glasso,Logistic Regression,27,0.9800000000000001
+glasso,Logistic Regression,28,0.96
+glasso,Logistic Regression,29,1.0
+glasso,Logistic Regression,30,1.0
+glasso,Logistic Regression,31,1.0
+glasso,Logistic Regression,32,0.96
+glasso,Logistic Regression,33,0.9800000000000001
+glasso,Logistic Regression,34,0.9960000000000001
+glasso,Logistic Regression,35,1.0
+glasso,Logistic Regression,36,0.9800000000000001
+glasso,Logistic Regression,37,1.0
+glasso,Logistic Regression,38,0.9800000000000001
+glasso,Logistic Regression,39,0.9800000000000001
+glasso,Logistic Regression,40,1.0
+mrmr,LightGBM,1,1.0
+mrmr,LightGBM,2,1.0
+mrmr,LightGBM,3,0.9960000000000001
+mrmr,LightGBM,4,1.0
+mrmr,LightGBM,5,1.0
+mrmr,LightGBM,6,0.9960000000000001
+mrmr,LightGBM,7,1.0
+mrmr,LightGBM,8,0.9960000000000001
+mrmr,LightGBM,9,1.0
+mrmr,LightGBM,10,1.0
+mrmr,LightGBM,11,0.9960000000000001
+mrmr,LightGBM,12,0.992
+mrmr,LightGBM,13,1.0
+mrmr,LightGBM,14,1.0
+mrmr,LightGBM,15,0.9960000000000001
+mrmr,LightGBM,16,1.0
+mrmr,LightGBM,17,0.992
+mrmr,LightGBM,18,0.9960000000000001
+mrmr,LightGBM,19,1.0
+mrmr,LightGBM,20,1.0
+mrmr,LightGBM,21,1.0
+mrmr,LightGBM,22,1.0
+mrmr,LightGBM,23,1.0
+mrmr,LightGBM,24,0.984
+mrmr,LightGBM,25,1.0
+mrmr,LightGBM,26,0.9960000000000001
+mrmr,LightGBM,27,1.0
+mrmr,LightGBM,28,1.0
+mrmr,LightGBM,29,1.0
+mrmr,LightGBM,30,1.0
+mrmr,LightGBM,31,1.0
+mrmr,LightGBM,32,0.9559999999999998
+mrmr,LightGBM,33,1.0
+mrmr,LightGBM,34,0.992
+mrmr,LightGBM,35,1.0
+mrmr,LightGBM,36,1.0
+mrmr,LightGBM,37,1.0
+mrmr,LightGBM,38,0.992
+mrmr,LightGBM,39,1.0
+mrmr,LightGBM,40,1.0
+mrmr,Logistic Regression,1,0.9559999999999998
+mrmr,Logistic Regression,2,0.9800000000000001
+mrmr,Logistic Regression,3,0.968
+mrmr,Logistic Regression,4,0.9879999999999999
+mrmr,Logistic Regression,5,0.9879999999999999
+mrmr,Logistic Regression,6,0.9719999999999999
+mrmr,Logistic Regression,7,0.9800000000000001
+mrmr,Logistic Regression,8,0.9800000000000001
+mrmr,Logistic Regression,9,0.992
+mrmr,Logistic Regression,10,0.9800000000000001
+mrmr,Logistic Regression,11,0.976
+mrmr,Logistic Regression,12,0.944
+mrmr,Logistic Regression,13,1.0
+mrmr,Logistic Regression,14,1.0
+mrmr,Logistic Regression,15,0.992
+mrmr,Logistic Regression,16,1.0
+mrmr,Logistic Regression,17,0.9879999999999999
+mrmr,Logistic Regression,18,0.9559999999999998
+mrmr,Logistic Regression,19,0.984
+mrmr,Logistic Regression,20,1.0
+mrmr,Logistic Regression,21,0.9800000000000001
+mrmr,Logistic Regression,22,0.9719999999999999
+mrmr,Logistic Regression,23,1.0
+mrmr,Logistic Regression,24,0.9559999999999998
+mrmr,Logistic Regression,25,0.9879999999999999
+mrmr,Logistic Regression,26,0.9719999999999999
+mrmr,Logistic Regression,27,0.992
+mrmr,Logistic Regression,28,0.9719999999999999
+mrmr,Logistic Regression,29,1.0
+mrmr,Logistic Regression,30,1.0
+mrmr,Logistic Regression,31,0.984
+mrmr,Logistic Regression,32,0.932
+mrmr,Logistic Regression,33,0.9800000000000001
+mrmr,Logistic Regression,34,0.984
+mrmr,Logistic Regression,35,0.944
+mrmr,Logistic Regression,36,0.9879999999999999
+mrmr,Logistic Regression,37,1.0
+mrmr,Logistic Regression,38,0.9800000000000001
+mrmr,Logistic Regression,39,0.976
+mrmr,Logistic Regression,40,0.9960000000000001
+panel,LightGBM,1,0.992
+panel,LightGBM,2,1.0
+panel,LightGBM,3,0.9960000000000001
+panel,LightGBM,4,1.0
+panel,LightGBM,5,1.0
+panel,LightGBM,6,1.0
+panel,LightGBM,7,1.0
+panel,LightGBM,8,1.0
+panel,LightGBM,9,1.0
+panel,LightGBM,10,1.0
+panel,LightGBM,11,0.9800000000000001
+panel,LightGBM,12,0.9960000000000001
+panel,LightGBM,13,1.0
+panel,LightGBM,14,1.0
+panel,LightGBM,15,1.0
+panel,LightGBM,16,1.0
+panel,LightGBM,17,1.0
+panel,LightGBM,18,0.9800000000000001
+panel,LightGBM,19,0.9640000000000001
+panel,LightGBM,20,1.0
+panel,LightGBM,21,1.0
+panel,LightGBM,22,1.0
+panel,LightGBM,23,1.0
+panel,LightGBM,24,0.9879999999999999
+panel,LightGBM,25,1.0
+panel,LightGBM,26,1.0
+panel,LightGBM,27,1.0
+panel,LightGBM,28,0.9800000000000001
+panel,LightGBM,29,0.992
+panel,LightGBM,30,1.0
+panel,LightGBM,31,0.992
+panel,LightGBM,32,0.96
+panel,LightGBM,33,1.0
+panel,LightGBM,34,1.0
+panel,LightGBM,35,1.0
+panel,LightGBM,36,1.0
+panel,LightGBM,37,1.0
+panel,LightGBM,38,0.976
+panel,LightGBM,39,1.0
+panel,LightGBM,40,1.0
+panel,Logistic Regression,1,0.9559999999999998
+panel,Logistic Regression,2,0.96
+panel,Logistic Regression,3,0.96
+panel,Logistic Regression,4,0.9800000000000001
+panel,Logistic Regression,5,0.96
+panel,Logistic Regression,6,0.96
+panel,Logistic Regression,7,0.96
+panel,Logistic Regression,8,0.9800000000000001
+panel,Logistic Regression,9,1.0
+panel,Logistic Regression,10,0.976
+panel,Logistic Regression,11,0.908
+panel,Logistic Regression,12,0.944
+panel,Logistic Regression,13,0.8400000000000001
+panel,Logistic Regression,14,0.916
+panel,Logistic Regression,15,0.992
+panel,Logistic Regression,16,0.9279999999999999
+panel,Logistic Regression,17,0.968
+panel,Logistic Regression,18,0.876
+panel,Logistic Regression,19,0.8
+panel,Logistic Regression,20,0.9399999999999998
+panel,Logistic Regression,21,1.0
+panel,Logistic Regression,22,0.9640000000000001
+panel,Logistic Regression,23,1.0
+panel,Logistic Regression,24,0.952
+panel,Logistic Regression,25,0.9879999999999999
+panel,Logistic Regression,26,0.96
+panel,Logistic Regression,27,1.0
+panel,Logistic Regression,28,0.9800000000000001
+panel,Logistic Regression,29,0.9800000000000001
+panel,Logistic Regression,30,1.0
+panel,Logistic Regression,31,0.908
+panel,Logistic Regression,32,0.9200000000000002
+panel,Logistic Regression,33,0.992
+panel,Logistic Regression,34,0.932
+panel,Logistic Regression,35,0.9399999999999998
+panel,Logistic Regression,36,0.9480000000000001
+panel,Logistic Regression,37,0.9
+panel,Logistic Regression,38,0.9399999999999998
+panel,Logistic Regression,39,0.9
+panel,Logistic Regression,40,0.96
+pca,LightGBM,1,0.9719999999999999
+pca,LightGBM,2,0.976
+pca,LightGBM,3,1.0
+pca,LightGBM,4,1.0
+pca,LightGBM,5,0.9879999999999999
+pca,LightGBM,6,0.96
+pca,LightGBM,7,0.9960000000000001
+pca,LightGBM,8,1.0
+pca,LightGBM,9,1.0
+pca,LightGBM,10,1.0
+pca,LightGBM,11,0.984
+pca,LightGBM,12,0.9559999999999998
+pca,LightGBM,13,1.0
+pca,LightGBM,14,1.0
+pca,LightGBM,15,0.984
+pca,LightGBM,16,1.0
+pca,LightGBM,17,1.0
+pca,LightGBM,18,0.968
+pca,LightGBM,19,0.9800000000000001
+pca,LightGBM,20,0.992
+pca,LightGBM,21,0.96
+pca,LightGBM,22,0.9400000000000001
+pca,LightGBM,23,1.0
+pca,LightGBM,24,0.944
+pca,LightGBM,25,1.0
+pca,LightGBM,26,0.992
+pca,LightGBM,27,0.984
+pca,LightGBM,28,0.9800000000000001
+pca,LightGBM,29,0.9800000000000001
+pca,LightGBM,30,1.0
+pca,LightGBM,31,1.0
+pca,LightGBM,32,0.96
+pca,LightGBM,33,0.9800000000000001
+pca,LightGBM,34,0.984
+pca,LightGBM,35,0.9800000000000001
+pca,LightGBM,36,0.992
+pca,LightGBM,37,1.0
+pca,LightGBM,38,0.9800000000000001
+pca,LightGBM,39,0.9719999999999999
+pca,LightGBM,40,1.0
+pca,Logistic Regression,1,0.9640000000000001
+pca,Logistic Regression,2,0.9800000000000001
+pca,Logistic Regression,3,0.9800000000000001
+pca,Logistic Regression,4,1.0
+pca,Logistic Regression,5,0.992
+pca,Logistic Regression,6,0.9640000000000001
+pca,Logistic Regression,7,0.9960000000000001
+pca,Logistic Regression,8,1.0
+pca,Logistic Regression,9,1.0
+pca,Logistic Regression,10,1.0
+pca,Logistic Regression,11,0.9800000000000001
+pca,Logistic Regression,12,0.9559999999999998
+pca,Logistic Regression,13,1.0
+pca,Logistic Regression,14,1.0
+pca,Logistic Regression,15,0.9640000000000001
+pca,Logistic Regression,16,1.0
+pca,Logistic Regression,17,1.0
+pca,Logistic Regression,18,0.9800000000000001
+pca,Logistic Regression,19,0.9800000000000001
+pca,Logistic Regression,20,0.9960000000000001
+pca,Logistic Regression,21,0.96
+pca,Logistic Regression,22,0.96
+pca,Logistic Regression,23,1.0
+pca,Logistic Regression,24,0.952
+pca,Logistic Regression,25,1.0
+pca,Logistic Regression,26,0.9960000000000001
+pca,Logistic Regression,27,0.9800000000000001
+pca,Logistic Regression,28,0.968
+pca,Logistic Regression,29,0.9800000000000001
+pca,Logistic Regression,30,1.0
+pca,Logistic Regression,31,1.0
+pca,Logistic Regression,32,0.976
+pca,Logistic Regression,33,0.984
+pca,Logistic Regression,34,1.0
+pca,Logistic Regression,35,0.992
+pca,Logistic Regression,36,0.9800000000000001
+pca,Logistic Regression,37,1.0
+pca,Logistic Regression,38,0.9800000000000001
+pca,Logistic Regression,39,0.9800000000000001
+pca,Logistic Regression,40,1.0
+rfe,LightGBM,1,1.0
+rfe,LightGBM,2,0.984
+rfe,LightGBM,3,0.9879999999999999
+rfe,LightGBM,4,1.0
+rfe,LightGBM,5,0.984
+rfe,LightGBM,6,0.9879999999999999
+rfe,LightGBM,7,0.9960000000000001
+rfe,LightGBM,8,0.992
+rfe,LightGBM,9,1.0
+rfe,LightGBM,10,0.9879999999999999
+rfe,LightGBM,11,1.0
+rfe,LightGBM,12,0.9879999999999999
+rfe,LightGBM,13,1.0
+rfe,LightGBM,14,0.9960000000000001
+rfe,LightGBM,15,0.984
+rfe,LightGBM,16,0.984
+rfe,LightGBM,17,0.9800000000000001
+rfe,LightGBM,18,0.968
+rfe,LightGBM,19,0.976
+rfe,LightGBM,20,1.0
+rfe,LightGBM,21,0.9879999999999999
+rfe,LightGBM,22,0.992
+rfe,LightGBM,23,1.0
+rfe,LightGBM,24,0.992
+rfe,LightGBM,25,1.0
+rfe,LightGBM,26,0.9960000000000001
+rfe,LightGBM,27,0.9800000000000001
+rfe,LightGBM,28,0.9800000000000001
+rfe,LightGBM,29,1.0
+rfe,LightGBM,30,1.0
+rfe,LightGBM,31,0.9800000000000001
+rfe,LightGBM,32,0.9559999999999998
+rfe,LightGBM,33,1.0
+rfe,LightGBM,34,1.0
+rfe,LightGBM,35,0.992
+rfe,LightGBM,36,1.0
+rfe,LightGBM,37,0.9960000000000001
+rfe,LightGBM,38,0.9960000000000001
+rfe,LightGBM,39,0.992
+rfe,LightGBM,40,0.9960000000000001
+rfe,Logistic Regression,1,0.984
+rfe,Logistic Regression,2,0.9800000000000001
+rfe,Logistic Regression,3,0.96
+rfe,Logistic Regression,4,1.0
+rfe,Logistic Regression,5,1.0
+rfe,Logistic Regression,6,0.9640000000000001
+rfe,Logistic Regression,7,0.992
+rfe,Logistic Regression,8,0.9800000000000001
+rfe,Logistic Regression,9,1.0
+rfe,Logistic Regression,10,0.992
+rfe,Logistic Regression,11,0.9960000000000001
+rfe,Logistic Regression,12,0.968
+rfe,Logistic Regression,13,0.992
+rfe,Logistic Regression,14,0.9800000000000001
+rfe,Logistic Regression,15,0.984
+rfe,Logistic Regression,16,0.9960000000000001
+rfe,Logistic Regression,17,1.0
+rfe,Logistic Regression,18,0.9719999999999999
+rfe,Logistic Regression,19,0.992
+rfe,Logistic Regression,20,1.0
+rfe,Logistic Regression,21,0.9640000000000001
+rfe,Logistic Regression,22,0.9960000000000001
+rfe,Logistic Regression,23,1.0
+rfe,Logistic Regression,24,0.9719999999999999
+rfe,Logistic Regression,25,0.9960000000000001
+rfe,Logistic Regression,26,0.9879999999999999
+rfe,Logistic Regression,27,0.9800000000000001
+rfe,Logistic Regression,28,0.9800000000000001
+rfe,Logistic Regression,29,0.9800000000000001
+rfe,Logistic Regression,30,1.0
+rfe,Logistic Regression,31,1.0
+rfe,Logistic Regression,32,0.9559999999999998
+rfe,Logistic Regression,33,0.984
+rfe,Logistic Regression,34,1.0
+rfe,Logistic Regression,35,0.9800000000000001
+rfe,Logistic Regression,36,0.9800000000000001
+rfe,Logistic Regression,37,1.0
+rfe,Logistic Regression,38,0.9960000000000001
+rfe,Logistic Regression,39,0.9800000000000001
+rfe,Logistic Regression,40,0.9800000000000001
+stability,LightGBM,1,0.976
+stability,LightGBM,2,0.9879999999999999
+stability,LightGBM,3,0.9800000000000001
+stability,LightGBM,4,0.992
+stability,LightGBM,5,1.0
+stability,LightGBM,6,1.0
+stability,LightGBM,7,1.0
+stability,LightGBM,8,0.96
+stability,LightGBM,9,1.0
+stability,LightGBM,10,1.0
+stability,LightGBM,11,0.308
+stability,LightGBM,12,0.404
+stability,LightGBM,13,0.392
+stability,LightGBM,14,0.264
+stability,LightGBM,15,0.384
+stability,LightGBM,16,0.33999999999999997
+stability,LightGBM,17,0.34
+stability,LightGBM,18,0.3
+stability,LightGBM,19,0.32
+stability,LightGBM,20,0.388
+stability,LightGBM,21,0.41600000000000004
+stability,LightGBM,22,0.336
+stability,LightGBM,23,0.368
+stability,LightGBM,24,0.396
+stability,LightGBM,25,0.368
+stability,LightGBM,26,0.43600000000000005
+stability,LightGBM,27,0.312
+stability,LightGBM,28,0.36
+stability,LightGBM,29,0.264
+stability,LightGBM,30,0.388
+stability,LightGBM,31,0.264
+stability,LightGBM,32,0.256
+stability,LightGBM,33,0.284
+stability,LightGBM,34,0.288
+stability,LightGBM,35,0.308
+stability,LightGBM,36,0.348
+stability,LightGBM,37,0.42400000000000004
+stability,LightGBM,38,0.32
+stability,LightGBM,39,0.388
+stability,LightGBM,40,0.3
+stability,Logistic Regression,1,0.9800000000000001
+stability,Logistic Regression,2,0.9800000000000001
+stability,Logistic Regression,3,1.0
+stability,Logistic Regression,4,1.0
+stability,Logistic Regression,5,1.0
+stability,Logistic Regression,6,1.0
+stability,Logistic Regression,7,1.0
+stability,Logistic Regression,8,0.96
+stability,Logistic Regression,9,1.0
+stability,Logistic Regression,10,1.0
+stability,Logistic Regression,11,0.44000000000000006
+stability,Logistic Regression,12,0.36
+stability,Logistic Regression,13,0.4600000000000001
+stability,Logistic Regression,14,0.34
+stability,Logistic Regression,15,0.24
+stability,Logistic Regression,16,0.44000000000000006
+stability,Logistic Regression,17,0.48
+stability,Logistic Regression,18,0.34
+stability,Logistic Regression,19,0.3
+stability,Logistic Regression,20,0.34
+stability,Logistic Regression,21,0.0
+stability,Logistic Regression,22,0.124
+stability,Logistic Regression,23,0.11599999999999999
+stability,Logistic Regression,24,0.13999999999999999
+stability,Logistic Regression,25,0.0
+stability,Logistic Regression,26,0.132
+stability,Logistic Regression,27,0.13999999999999999
+stability,Logistic Regression,28,0.348
+stability,Logistic Regression,29,0.23199999999999998
+stability,Logistic Regression,30,0.256
+stability,Logistic Regression,31,0.384
+stability,Logistic Regression,32,0.5
+stability,Logistic Regression,33,0.7
+stability,Logistic Regression,34,0.41999999999999993
+stability,Logistic Regression,35,0.62
+stability,Logistic Regression,36,0.13999999999999999
+stability,Logistic Regression,37,0.62
+stability,Logistic Regression,38,0.496
+stability,Logistic Regression,39,0.44399999999999995
+stability,Logistic Regression,40,0.5599999999999999

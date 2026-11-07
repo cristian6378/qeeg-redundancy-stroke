@@ -1,0 +1,17 @@
+[project]
+name = "qeeg-redundancy-stroke"
+version = "1.0.0"
+description = "Feature redundancy, within-session repeatability and montage dependence of quantitative EEG in stroke (code for the BDCC article)"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "analysis/tests"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 130
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E9", "F63", "F7", "F82", "F401", "F841", "E711", "E712", "B006"]

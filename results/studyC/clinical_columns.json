@@ -1,0 +1,17 @@
+{
+  "source": "data/participants.tsv",
+  "detected": {
+    "nihss": "NIHSS",
+    "mbi": "MBI",
+    "mrs": "mRS",
+    "days": "Duration",
+    "age": "Age",
+    "sex": "Gender"
+  },
+  "targets": [
+    "nihss",
+    "mbi",
+    "mrs"
+  ],
+  "n_patients": 47
+}

@@ -1,0 +1,10 @@
+{
+  "platform": "Windows-10-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 181 Stepping 0, GenuineIntel",
+  "python": "3.11.17",
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "sklearn": "1.9.1",
+  "threads": "single (timing loop)",
+  "fs_hz": 500
+}
